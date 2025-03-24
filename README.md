@@ -1,14 +1,14 @@
-Coffee Shop Sales Analysis - Excel Project
+Excel Projects
 
-This Coffee Shop Sales Analysis project is a data-driven approach to understanding the sales performance of a coffee shop using Excel. The project involves:
+Welcome to the Excel Projects Repository! This repository contains various Excel-based data analysis projects, showcasing skills in data cleaning, visualization, formula-based problem-solving, and dashboard creation.
 
-Data Cleaning & Preparation: Handling missing values, removing duplicates, and formatting data properly.
+Projects Included
 
-Sales Analysis: Examining sales trends, identifying best-selling products, and analyzing revenue patterns.
+1. Coffee Shop Sales Analysis
 
-Data Visualization: Creating charts (bar charts, line graphs, pie charts) for insights on sales performance.
+      Data cleaning and preparation
 
-Dashboard Creation: Designing an interactive Excel dashboard to present key metrics like total sales, average order value, and customer preferences.
+      Sales trends and revenue analysis
 
+      Interactive dashboard for insights
 
-This project demonstrates proficiency in Excel functions, PivotTables, data visualization, and dashboard design, making it a great addition to a data analytics portfolio.
